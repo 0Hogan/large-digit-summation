@@ -1,5 +1,4 @@
-// Michael J. Hogan
-// CS400 Homework 3
+/* A fairly straightforward program that adds together a list of 100 50-digit numbers and displays the result. */
 
 #include <iostream>
 #include <fstream>
